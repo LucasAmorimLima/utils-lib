@@ -1,5 +1,5 @@
 {
-  "name": "utils-functions",
+  "name": "utils-functions-lib",
   "version": "1.0.0",
   "description": "",
   "main": "./lib/cjs/index.js",
